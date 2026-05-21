@@ -11,6 +11,8 @@ Esta actividad permite practicar fórmulas de cortesía y peticiones básicas en
 ## Material
 
 - Juego interactivo para practicar 
-- [Ir al ejercicio del restaurante](ejercicio-restaurante/index.html)
+- ## Actividad RenPy
+
+[Acceder a la narrativa interactiva RenPy](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/08-renpy-bar-cortesia/bar_espanol/index.html ':target=_blank')
 
 [Volver a la portada](../)

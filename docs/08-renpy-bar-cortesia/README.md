@@ -10,7 +10,7 @@ Esta actividad permite practicar fórmulas de cortesía y peticiones básicas en
 
 ## Material
 
-- ##Juego interactivo para practicar 
+- Juego interactivo para practicar 
 - [Ir al ejercicio del restaurante](ejercicio-restaurante/index.html)
 
 [Volver a la portada](../)

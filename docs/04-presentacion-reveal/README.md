@@ -10,6 +10,6 @@ Esta presentación introduce el uso del imperativo en situaciones comunicativas 
 
 ## Material
 
-- [Abrir presentación interactiva](index.html)
+- [Abrir presentación interactiva](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/04-presentacion-reveal/index.html)
 
 [Volver a la portada](../)

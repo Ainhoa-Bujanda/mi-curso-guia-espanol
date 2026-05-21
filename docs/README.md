@@ -1,6 +1,6 @@
 # Guía práctica de español básico para viajeros japoneses en España
 
-![Portada del curso](assets/img/portada.png)
+![Portada del curso](./assets/img/portada.png)
 
 ## Presentación del curso
 

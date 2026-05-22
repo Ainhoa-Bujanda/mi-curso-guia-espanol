@@ -57,7 +57,7 @@ Tras la autoevaluación inicial, se han introducido mejoras en los README de cad
 
 También se han añadido indicaciones de ayuda para evitar errores frecuentes al abrir materiales como el EPUB, el paquete SCORM, el cuestionario IMS QTI o las actividades Twine y RenPy. Además, cada apartado indica su posición dentro del curso, por ejemplo, “apartado 3 de 9”, lo que ayuda al estudiante a situarse y a reconocer su progreso general.
 
-En este apartado de autoevaluación, la tabla UNE 71362 completa se ofrece en PDF y Word, pero también se incluye un resumen en Markdown para que la información principal sea más fácil de consultar desde la propia página web.
+En este apartado de autoevaluación, la tabla UNE 71362 completa se ofrece en PDF, pero también se incluye un resumen en Markdown para que la información principal sea más fácil de consultar desde la propia página web.
 
 ## Aspectos que todavía pueden mejorarse
 

@@ -23,7 +23,7 @@ Desarrollar la capacidad de los estudiantes para comunicarse de forma básica y 
 7. [Narrativa interactiva con Twine](07-twine-recupera-maleta/)
 8. [Narrativa interactiva con RenPy](08-renpy-bar-cortesia/)
 9. [Autoevaluación según UNE 71362](09-autoevaluacion-une71362/)
-10. [Conclusiones](10-conclusiones/)
+
 
 ## Herramientas utilizadas
 

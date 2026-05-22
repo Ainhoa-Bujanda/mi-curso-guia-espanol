@@ -10,6 +10,6 @@ Esta actividad plantea una situación interactiva en la que el estudiante debe t
 
 ## Material
 
-- [Abrir narrativa Twine](recupera_tu_maleta.html)
+- [Abrir narrativa Twine](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/07-twine-recupera-maleta/TrabajoFinal_recupera_maleta/Recupera_tu_maleta.html)
 
 [Volver a la portada](../)

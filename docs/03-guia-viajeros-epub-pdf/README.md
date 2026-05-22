@@ -4,7 +4,7 @@ En este apartado se incluye una guía de apoyo para estudiantes que viajan a Esp
 
 ## Materiales disponibles
 
-  [Descargar guía en EPUB]((https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/03-guia-viajeros-epub-pdf/espanol_viajeros.epub) ':target=_blank')
+  [Descargar guía en EPUB](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/03-guia-viajeros-epub-pdf/espanol_viajeros.epub) ':target=_blank')
 
 
 ## Contenidos

@@ -10,6 +10,6 @@ Este cuestionario permite evaluar la comprensión de expresiones básicas en esp
 
 ## Material
 
-- [Descargar cuestionario IMS QTI](cuestionario_qti.zip)
+- [Descargar cuestionario IMS QTI](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/05-cuestionario-qti/cuestionario_qti.zip)
 
 [Volver a la portada](../)

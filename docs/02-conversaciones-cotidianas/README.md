@@ -25,7 +25,7 @@ La actividad trabaja con frases breves y situaciones comunicativas sencillas. Si
 
 ## Materiales
 
-- [Actividad en HTML](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/docs/02-conversaciones-cotidianas/conversaciones.html)
+- [Actividad en HTML](conversaciones.html)
   
 ## Navegación
 

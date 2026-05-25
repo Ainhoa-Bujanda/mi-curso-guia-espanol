@@ -20,7 +20,9 @@ Este apartado presenta expresiones básicas para comunicarse en situaciones frec
 
 ## Materiales
 
-- [Abrir la actividad en HTML](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/02-conversaciones-cotidianas/conversaciones.html)
+<a href="/mi-curso-guia-espanol/02-conversaciones-cotidianas/conversaciones.html" target="_blank" rel="noopener" data-no-router>
+Abrir la actividad en HTML
+</a>
 
 ## Accesibilidad
 
@@ -28,4 +30,4 @@ La actividad trabaja con frases breves y situaciones comunicativas sencillas. Si
 
 ## Navegación
 
-- [Volver a la portada](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/)
+- [Volver a la portada](../)

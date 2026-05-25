@@ -16,7 +16,7 @@ Para seguir el curso, se recomienda conocer el alfabeto latino, algunas fórmula
 
 ## Duración aproximada
 
-3 horas.
+5 horas.
 
 ## Contenidos principales
 

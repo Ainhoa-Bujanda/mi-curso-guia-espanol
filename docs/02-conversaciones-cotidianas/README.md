@@ -25,7 +25,7 @@ La actividad trabaja con frases breves y situaciones comunicativas sencillas. Si
 
 ## Materiales
 
-- [Actividad en HTML](conversaciones.html)
+- [Actividad en HTML](./conversaciones.html)
   
 ## Navegación
 

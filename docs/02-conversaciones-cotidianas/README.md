@@ -18,17 +18,14 @@ Este apartado presenta expresiones básicas para comunicarse en situaciones frec
 4. Repite las frases en voz alta para mejorar la pronunciación.
 5. Vuelve a esta página cuando termines.
 
+## Materiales
+
+- [Abrir la actividad en HTML](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/02-conversaciones-cotidianas/conversaciones.html)
 
 ## Accesibilidad
 
 La actividad trabaja con frases breves y situaciones comunicativas sencillas. Si alguna parte interactiva no se visualiza correctamente, se recomienda volver a cargar la página o abrirla en otro navegador.
 
-## Materiales
-
-- [Actividad en HTML](conversaciones.html)
-  
 ## Navegación
 
-- [Ir al apartado anterior: Presentación del curso](../01-presentacion-curso/)
-- [Ir al siguiente apartado: Guía práctica en EPUB y PDF](../03-guia-viajeros-epub-pdf/)
-- [Volver a la portada](../)
+- [Volver a la portada](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/)

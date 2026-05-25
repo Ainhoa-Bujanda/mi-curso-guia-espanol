@@ -21,15 +21,14 @@ Este apartado presenta expresiones básicas para comunicarse en situaciones frec
 
 ## Accesibilidad
 
-La actividad trabaja con frases breves y situaciones comunicativas sencillas. Si alguna parte interactiva no se visualiza correctamente, se recomienda volver a cargar la página o abrirla en otro navegador actualizado.
+La actividad trabaja con frases breves y situaciones comunicativas sencillas. Si alguna parte interactiva no se visualiza correctamente, se recomienda volver a cargar la página o abrirla en otro navegador.
 
 ## Materiales
 
-- [Actividad en HTML](conversaciones.html)
+- [Actividad en HTML](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/docs/02-conversaciones-cotidianas/conversaciones.html)
   
-  ## Navegación
+## Navegación
 
 - [Ir al apartado anterior: Presentación del curso](../01-presentacion-curso/)
 - [Ir al siguiente apartado: Guía práctica en EPUB y PDF](../03-guia-viajeros-epub-pdf/)
 - [Volver a la portada](../)
-

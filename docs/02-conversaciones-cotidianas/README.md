@@ -29,6 +29,4 @@ La actividad trabaja con frases breves y situaciones comunicativas sencillas. Si
   
 ## Navegación
 
-- [Ir al apartado anterior: Presentación del curso](../01-presentacion-curso/)
-- [Ir al siguiente apartado: Guía práctica en EPUB y PDF](../03-guia-viajeros-epub-pdf/)
-- [Volver a la portada](../)
+- [Volver a la portada](/)

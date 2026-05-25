@@ -14,11 +14,13 @@ En este apartado se incluye una guía de apoyo para estudiantes que viajan a Esp
 ## Materiales disponibles
 
   [Descargar guía en EPUB](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/03-guia-viajeros-epub-pdf/espanol_viajeros.epub)
+  
+  [Descargar guía en PDF](https://ainhoa-bujanda.github.io/mi-curso-guia-espanol/03-guia-viajeros-epub-pdf/espanol_viajeros.pdf)
 
 
 ## Cómo abrir el EPUB
 
-El archivo EPUB puede descargarse y abrirse con un lector de libros electrónicos. Algunos navegadores no abren EPUB directamente, por lo que se recomienda usar una aplicación compatible, por ejemplo Calibre, Apple Books, Google Play Books o cualquier lector EPUB instalado en el dispositivo.
+El archivo EPUB puede descargarse y abrirse con un lector de libros electrónicos. Algunos navegadores no abren EPUB directamente, por lo que se recomienda usar una aplicación compatible, por ejemplo[...]
 
 ## Contenidos
 
